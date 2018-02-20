@@ -1,1 +1,2 @@
 click==6.7
+https://github.com/pyinstaller/pyinstaller/archive/develop.zip
